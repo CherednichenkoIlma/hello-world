@@ -1,2 +1,2 @@
 # hello-world
-It's new repository.
+I'm like mountains.
